@@ -1,4 +1,4 @@
-Place script in the same folder containing the mail documents.
+Place script in the same folder containing the email documents.
 
 **To execute the script, go to the folder and use the command in the command line:**
 
